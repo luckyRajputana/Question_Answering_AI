@@ -19,6 +19,10 @@
 
 ## Exploratory Data Analysis :
 +![alt text](EDA_analysis/DatasetGrid.PNG "EDA image")
++![alt text](EDA_analysis/Callenge_Exam_Analysis.PNG "EDA image")
++![alt text](EDA_analysis/Easy_Exam_Analysis_.PNG "EDA image")
++![alt text](EDA_analysis/No_of_words_in_sentence.PNG "EDA image")
+
 
 
 
